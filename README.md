@@ -1,2 +1,2 @@
 # Mini-Project
-Mini projects
+Mini projects Using python and pyqt6
